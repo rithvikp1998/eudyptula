@@ -1,0 +1,25 @@
+From 692e2450e7f16c712f86b7f963ca797a75ef4dd1 Mon Sep 17 00:00:00 2001
+From: Rithvik Patibandla <rithvikp98@gmail.com>
+Date: Fri, 3 Aug 2018 14:32:29 +0530
+Subject: [PATCH] Eudyptula task 3
+
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index 85f3481..fa50673 100644
+--- a/Makefile
++++ b/Makefile
+@@ -2,7 +2,7 @@
+ VERSION = 4
+ PATCHLEVEL = 18
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc7
++EXTRAVERSION = -eudyptula
+ NAME = Merciless Moray
+ 
+ # *DOCUMENTATION*
+-- 
+2.7.4
+
